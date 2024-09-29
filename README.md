@@ -10,10 +10,10 @@ Also used famous router library which used to navigate the comonents by passing 
 </br>
 json server is mock backend that we used as database in this project. WHere store the each detail as a array of object in the db.json file.
 </br>
-<h2>Hooks</h2>
+## Hooks
 Hooks that we used to make our function basedd components statefull are : useState(), useRef(), useParam(), useNavigate().
 
-# `npx json-server Backend/db.json --watch --port 5000
+### `npx json-server Backend/db.json --watch --port 5000
 
 first run the json server then start the npm in another new terminal.
 
