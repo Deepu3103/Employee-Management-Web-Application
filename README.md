@@ -10,7 +10,7 @@ JSON server is mock backend that we used as database in this project. WHere stor
 ## Hooks
 Hooks that we used to make our function basedd components statefull are : useState(), useRef(), useParam(), useNavigate().
 
-### `npx json-server Backend/db.json --watch --port 5000`
+### `npx json-server Backend/db.json --watch --port 3000`
 
 first run the json server then start the npm in another new terminal.
 
