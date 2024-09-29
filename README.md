@@ -5,7 +5,7 @@ The primary goal of this project is provide a good and user-friendly interface f
 </br>
 In this also used axios API to perform some HTTP services like get, post, delete. Also used famous router library which used to navigate the comonents by passing some url as arguments.
 </br>
-json server is mock backend that we used as database in this project. WHere store the each detail as a array of object in the db.json file.
+JSON server is mock backend that we used as database in this project. WHere store the each detail as a array of object in the db.json file.
 </br>
 ## Hooks
 Hooks that we used to make our function basedd components statefull are : useState(), useRef(), useParam(), useNavigate().
