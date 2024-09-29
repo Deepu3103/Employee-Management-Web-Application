@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "32c5",
+      "name": "Deepu",
+      "salary": "300000",
+      "company": "Google"
+    },
+    {
+      "name": "Pranay ",
+      "salary": "60000",
+      "company": "Microsoft",
+      "id": "9510"
+    },
+    {
+      "id": "17b4",
+      "name": "Malikarjun",
+      "salary": "50000",
+      "company": "IBM"
+    }
+  ]
+}

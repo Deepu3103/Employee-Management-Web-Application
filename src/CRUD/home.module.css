@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    background-color: black;
+}
+
+nav {
+    height: 80px;
+    width: 100%;
+
+    /* border: 1px solid white; */
+    box-shadow: 1px 1px 5px white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a {
+    color: white;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
+
+#userForm {
+    height: 80vh;
+    width: 100%;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#userForm>form {
+
+    height: 60%;
+    width: 28%;
+    background-color: rgb(142, 139, 135);
+
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+
+}
+
+#userForm>form>input {
+    height: 40px;
+    width: 70%;
+
+    border-radius: 10px;
+
+    /* margin: 10px; */
+    /* padding: 10px 100px 10px 5px; */
+
+}
+
+#usersPage {
+    color: white;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+table {
+    height: 250px;
+    width: 250px;
+
+    margin: 8px 10px;
+
+
+
+    border-radius: 15px;
+    background-color: rgb(133, 118, 6);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+table td {
+    height: 25px;
+    width: 100px;
+
+    padding: 10px;
+
+    font-size: 25px;
+}
+
+table button {
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    font-size: 20px;
+
+    color: black;
+}
+
+table button Link {
+    color: black;
+
+}
+
+h1 {
+    font-size: 20px;
+}
