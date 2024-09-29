@@ -3,7 +3,7 @@ It is single paged web application developed by using react hooks, axios API, ro
 </br>
 The primary goal of this project is provide a good and user-friendly interface for managing employee records.This Web application manages the employee details by performing some CRUD operstions like Create user, diaplay , delete and edit employee details.
 </br>
-In this also used axios API to perform some HTTP services like get, post, delete.Also used famous router library which used to navigate the comonents by passing some url as arguments.
+In this also used axios API to perform some HTTP services like get, post, delete. Also used famous router library which used to navigate the comonents by passing some url as arguments.
 </br>
 json server is mock backend that we used as database in this project. WHere store the each detail as a array of object in the db.json file.
 </br>
